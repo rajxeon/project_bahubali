@@ -1,2 +1,2 @@
 Hi team,
-This is a git sync activity
+This is a git sync activities
